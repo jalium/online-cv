@@ -85,9 +85,10 @@ experiences:
       company: PnuVax SL Biopharmaceuticals Inc
       details: |
            Embraced the start-up environment and took initiative to be self-directed in >10 projects
+
           - Successfully scaled key process in vaccine manufacturing from lab scale to production fermenter
           - Conducted mixing studies on the production fermenter and presented results to management
-          - Implemented materials management system for the process monitoring room          
+          - Implemented materials management system for the process monitoring room
           
 projects:
     title: Projects
@@ -97,7 +98,7 @@ projects:
     assignments:
       - title: DripCurl
         link: "#hook"
-        tagline: "DripCurl is a React web app that connects users that have the same hair type. Each user has a profile allowing them to share their favourite products and are able to browse profiles to help customize their own hair care routine. Technologies used: React.js / CSS / Redux / Node.js / MongoDB / Express /  Multer."
+        tagline: "DripCurl is a React web app that connects users that have the same hair type. Each user has a profile allowing them to share their favourite products and are able to browse profiles to help customize their own hair care routine."
 
       - title: DevStudio
         link: "#"
