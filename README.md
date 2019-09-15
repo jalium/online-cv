@@ -1,1 +1,1 @@
-https://jalium.github.io/online-cv/
+https://jalium.github.io/online-cv/ 👩🏾‍💻 💅🏾
