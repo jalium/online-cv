@@ -46,7 +46,9 @@ education:
       time: 2019 - 2019
       details: |
         Completed a Full-Stack Web Development Diploma that focuses on modern 
-        Web Development with JavaScript. Technologies covered include: HTML, 
+        Web Development with JavaScript. 
+        
+        Technologies covered included: HTML, 
         CSS, JavaScript, React, Redux, Git, GitHub, Node.js, Express, MongoDB
           
     - degree: MSc in Biochemical Engineering
@@ -95,6 +97,7 @@ projects:
         tagline: "DripCurl is a React web app that connects users that have the same hair type. \
         Each user has a profile allowing them to share their favourite products and are able to \
         browse profiles to help customize their own hair care routine. \
+        
         Technologies used: React.js / CSS / Redux / Node.js / MongoDB / Express / Multer."
 
       - title: Journey
@@ -102,6 +105,7 @@ projects:
         tagline: "Journey is a React web app that functions as a marketplace for vacation packages. \
         The user is able to search for their desired destination and purchase the vacation using a \
         Stripe API. \
+        
         Technologies used: React.js / CSS /  Redux /  Node.js /  MongoDB /  Express / Multer."
 
 publications:
