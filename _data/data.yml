@@ -119,12 +119,12 @@ skills:
 
     toolset:
       - name: ReactJS
-        level: 85%
+        level: 90%
 
       - name: Redux
         level: 85%  
 
-      - name: HTML5 / CSS / JavaScript ES6 
+      - name: JavaScript ES6 
         level: 85%        
 
       - name: NodeJS
