@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Chemical engineer turned full-stack developer with an aesthetics eye. 👩🏾‍💻
+      Chemical engineer turned full-stack developer with an eye for aesthetics.
 
 education:
     - degree: Diploma in Full Stack Development
@@ -68,7 +68,7 @@ experiences:
       company: Ambri Inc.
       details: |
         Designed a web application in Python that enabled the user to compare performance 
-        data of a selection of cells.
+        data of a selection of battery cells.
         Performed analyses to identify the cause of performance variability in a novel 
         battery cell chemistry from SEM and EDX results.
 
@@ -120,20 +120,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Front-end • ReactJS / Redux / HTML5 / CSS / JavaScript ES6 
+      - name: ReactJS
         level: 85%
 
-      - name: Back-end • NodeJS / Express / MongoDB / Python
+      - name: Redux
+        level: 85%  
+
+      - name: HTML5 / CSS / JavaScript ES6 
+        level: 85%        
+
+      - name: NodeJS
         level: 80%
 
-      - name: Tools • Git / Github / Trello / Webpack / Babel / NPM
-        level: 80%
-        
-      - name: Currently learning • SASS
-        level: 60%
+      - name: Express
+        level: 80%        
 
-      - name: Design • Sketch & Photoshop
-        level: 60%
+      - name: MongoDB
+        level: 80%      
+ 
+      - name: Python
+        level: 80%         
+
+      - name: Git / Github
+        level: 80%
 
 footer: >
     👩🏾‍💻
