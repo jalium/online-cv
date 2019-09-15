@@ -28,6 +28,12 @@ p {
     line-height: 1.5;
 }
 
+.wide-space {
+    letter-spacing: 3px;
+    margin-left: 2px;
+    font-weight: 600;
+}
+
 .wrapper {
     background:#24292e;
     max-width: 1000px;
@@ -254,12 +260,6 @@ p {
         height: 12px;
         background: lighten(#24292e, 15%);
     }
-}
-
-.wide-space {
-    letter-spacing: 3px;
-    margin-left: 2px;
-    font-weight: 600;
 }
 
 .footer {
