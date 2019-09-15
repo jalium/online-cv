@@ -130,10 +130,10 @@ skills:
         level: 80%
 
       - name: Express
-        level: 80%        
+        level: 80%
 
       - name: MongoDB
-        level: 80%      
+        level: 80%
  
       - name: Git / Github
         level: 80%
