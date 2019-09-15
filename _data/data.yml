@@ -120,19 +120,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Front-end
+      - name: Front-end • ReactJS / Redux / HTML5 / CSS / JavaScript ES6 
         level: 85%
 
-      - name: *Back-end* Node.js / Express / MongoDB / Python
+      - name: Back-end • NodeJS / Express / MongoDB / Python
         level: 80%
 
-      - name: *Tools* Git / Github / Trello / Webpack / Babel / NPM
+      - name: Tools • Git / Github / Trello / Webpack / Babel / NPM
         level: 80%
         
-      - name: *Currently learning* SASS
+      - name: Currently learning • SASS
         level: 60%
 
-      - name: *Sketch & Photoshop*
+      - name: Design • Sketch & Photoshop
         level: 60%
 
 footer: >
