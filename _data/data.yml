@@ -88,7 +88,6 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Available on my GitHub
 
     assignments:
       - title: DripCurl
@@ -109,7 +108,6 @@ projects:
 publications:
     title: Publications
     intro: |
-      During my MSc in Biochemical Engineering
 
     papers:
       - title: "Electricity generation using a novel biological co-catalyst in an air- cathode microbial fuel cell"
@@ -145,4 +143,3 @@ skills:
         level: 80%
 
 footer: >
-    👩🏾‍💻
