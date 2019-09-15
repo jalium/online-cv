@@ -161,7 +161,7 @@ p {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        color: darken($theme-color, 15%);
+        color: black;
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
@@ -191,11 +191,11 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-grey;
+        color: #999;
     }
     .company, .university {
         margin-bottom: 10px;
-        color: $text-grey;
+        color: #999;
     }
 
     .project-title {
@@ -203,7 +203,7 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	color: black;
     }
     .projects-section {
         .intro {
@@ -222,7 +222,7 @@ p {
     }
     .publication-authors {
         font-style: italic;
-        color: $text-grey;
+        color: #999;
         margin-bottom: 1px;
     }
     .publications-section {
