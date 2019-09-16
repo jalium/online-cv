@@ -103,6 +103,7 @@ p {
     }
     .container-block-title {
         text-transform: uppercase;
+	letter-spacing: 3px;
         font-size: 16px;
         font-weight: 700;
         margin-top: 0;
@@ -205,7 +206,8 @@ p {
     }
 
     .project-title {
-        font-size: 16px;
+        font-size: 14px;
+	letter-spacing: 1px;
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
