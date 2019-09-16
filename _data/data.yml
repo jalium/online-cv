@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jessica Johnson
-    tagline: Full Stack Developer
+    tagline: Full-stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -100,7 +100,7 @@ projects:
         tagline: "DripCurl is a React web app that connects users that have the same hair type. \
         Each user has a profile allowing them to share their favourite products and are able to \
         browse profiles to help customize their own hair care routine.
-        
+        \n
         Technologies used: React.js / CSS / Redux / Node.js / MongoDB / Express / Multer."
 
       - title: Journey
@@ -108,7 +108,7 @@ projects:
         tagline: "Journey is a React web app that functions as a marketplace for vacation packages. \
         The user is able to search for their desired destination and purchase the vacation using a \
         Stripe API.
-        
+        \n
         Technologies used: React.js / CSS /  Redux /  Node.js /  MongoDB /  Express / Multer."
 
 publications:
