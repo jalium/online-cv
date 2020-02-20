@@ -68,6 +68,15 @@ education:
         Environmental Stream – Honours
 
 experiences:
+- role: Fullstack Developer
+      time: October 2019 – Present
+      company: Folklore / Urbania
+      details: |
+      Front-end continuous imporovement on main site
+      Integrated various Front-end code from Adobe models
+      Built a recommendation API using tensorflow and Google Analytics 
+        Git, Asana, Php, NodeJS, React, Javascript ES6, tensorflow
+        
     - role: Analysis Intern
       time: January 2019 – April 2019
       company: Ambri Inc.
