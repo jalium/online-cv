@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jessica.virginia.johnson@gmail.com
-    phone: (438) 505-9797 
+    phone: (438) 505-9797
     website: jalium.github.io/online-cv/ #do not add http://
     linkedin: jessica-v-johnson
     github: jalium
@@ -34,9 +34,9 @@ sidebar:
 
       - item: Cooking
         link:
-        
+
       - item: Dance
-        link:        
+        link:
 
 career-profile:
     title: Career Profile
@@ -48,12 +48,12 @@ education:
       university: Concordia University
       time: 2019 - 2019
       details: |
-        Completed a Full-Stack Web Development Diploma that focuses on modern 
-        Web Development with JavaScript. 
-        
-        Technologies covered included: HTML, 
+        Completed a Full-Stack Web Development Diploma that focuses on modern
+        Web Development with JavaScript.
+
+        Technologies covered included: HTML,
         CSS, JavaScript, React, Redux, Git, GitHub, Node.js, Express, MongoDB
-          
+
     - degree: MSc in Biochemical Engineering
       university: University of Ottawa
       time: 2015 - 2018
@@ -72,25 +72,25 @@ experiences:
       time: October 2019 – Present
       company: Folklore / Urbania
       details: |
-      Front-end continuous imporovement on main site
-      Integrated various Front-end code from Adobe models
-      Built a recommendation API using tensorflow and Google Analytics 
-      Javascript ES6 / NodeJS / Git / Asana / Php / React / Tensorflow
-        
+        Front-end continuous imporovement on main site
+        Integrated various Front-end code from Adobe models
+        Built a recommendation API using tensorflow and Google Analytics
+        Javascript ES6 / NodeJS / Git / Asana / Php / React / Tensorflow
+
     - role: Analysis Intern
       time: January 2019 – April 2019
       company: Ambri Inc.
       details: |
-        Designed a web application in Python that enabled the user to compare performance 
+        Designed a web application in Python that enabled the user to compare performance
         data of a selection of battery cells.
-        Performed analyses to identify the cause of performance variability in a novel 
+        Performed analyses to identify the cause of performance variability in a novel
         battery cell chemistry from SEM and EDX results.
 
     - role: Lead Instructor
       time: September 2016 – May 2018
       company: U. Ottawa, Chemical Engineering Laboratory
       details: |
-        Lead instructor for pilot-scale distillation column, kidney dialysis and air flow 
+        Lead instructor for pilot-scale distillation column, kidney dialysis and air flow
         laboratories, training 100 students on lab equipment, safety, and reporting processes.
 
     - role: Chemical Engineer
@@ -98,7 +98,7 @@ experiences:
       company: PnuVax SL Biopharmaceuticals Inc
       details: |
            Embraced the start-up environment and took self-directed initiative in >10 projects.
-          
+
 projects:
     title: Projects
     intro: >
@@ -150,10 +150,10 @@ skills:
 
       - name: MongoDB
         level: 80%
- 
+
       - name: Git / Github
         level: 80%
-        
+
       - name: Python
         level: 70%
 
