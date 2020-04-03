@@ -136,23 +136,23 @@ skills:
       - name: ReactJS
         level: 90%
 
-      - name: Redux
-        level: 85%
-
       - name: JavaScript ES6
+        level: 90%
+
+      - name: Git / Github
         level: 85%
 
       - name: NodeJS
         level: 80%
 
-      - name: Express
+      - name: Redux
         level: 80%
+
+      - name: Express
+        level: 75%
 
       - name: MongoDB
-        level: 80%
-
-      - name: Git / Github
-        level: 80%
+        level: 70%
 
       - name: Python
         level: 70%
