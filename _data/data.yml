@@ -8,27 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jessica Johnson
+    tagline: Full-stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: jessica.virginia.johnson@gmail.com
+    phone: (438) 505-9797
+    website: jalium.github.io/online-cv/ #do not add http://
+    linkedin: jessica-v-johnson
+    github: jalium
 
     languages:
       title: Languages
@@ -39,163 +28,110 @@ sidebar:
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
-
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: Fashion
+        link:
 
-        - item: Snowboarding
-          link:
+      - item: Science
+        link:
 
         - item: Cooking
           link:
 
+      - item: Dance
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      Renewable energy engineer turned full-stack developer.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-        
+education:
+    - degree: Diploma in Full Stack Development
+      university: Concordia University
+      time: 2019 - 2019
+      details: |
+        Completed a Full-Stack Web Development Diploma that focuses on modern
+        Web Development with JavaScript.
+
+        Technologies covered included: HTML,
+        CSS, JavaScript, React, Redux, Git, GitHub, Node.js, Express, MongoDB
+
+    - degree: MSc in Biochemical Engineering
+      university: University of Ottawa
+      time: 2015 - 2018
+      details: |
+        Developed a novel coculture and demonstrated its proficiency as a biocatalyst
+        Learned and employed R for data analysis and visualization
+
+    - degree: BSc in Chemical Engineering
+      university: Queen’s University
+      time: 2010 - 2014
+      details: |
+        Environmental Stream – Honours
+
+experiences:
+- role: Front-end Developer
+      time: August 2020 – February 2023
+      company: Mentorly
+      details: |+
+        Architected and developed new features for Enterprise product using TypeScript and React.
+        Implemented automated end-to-end tests using Cypress
+        Managed prioritisation of features for the product roadmap based on user feedback
+        Typescript / React / Next / Tailwind CSS / Jira / Productboard 
+
+    - role: Fullstack Developer
+      time: October 2019 – August 2020
+      company: Folklore / Urbania
+      details: |+
+        Built an interactive video platform that delivered a unique UX based on multiple user inputs.
+        Contributed to continuous improvement on main site and integrated front-end code from Adobe models.
+        Collaborated with a UX designer to improve the internal CMS.
+        Researched an AI empowered recommendation API using Tensorflow and Google Analytics.
+        Javascript ES6 / NodeJS / Git / Asana / Php / React / Tensorflow
+
+    - role: Analysis Intern
+      time: January 2019 – April 2019
+      company: Ambri Inc.
+      details: |
+        Designed a web application in Python that enabled the user to compare performance
+        data of a selection of battery cells.
+        Performed analyses to identify the cause of performance variability in a novel
+        battery cell chemistry from SEM and EDX results.
+
+    - role: Lead Instructor
+      time: September 2016 – May 2018
+      company: U. Ottawa, Chemical Engineering Laboratory
+      details: |
+        Lead instructor for pilot-scale distillation column, kidney dialysis and air flow
+        laboratories, training 100 students on lab equipment, safety, and reporting processes.
+
+    - role: Chemical Engineer
+      time: May 2013 – August 2013
+      company: PnuVax SL Biopharmaceuticals Inc
+      details: |
+           Embraced the start-up environment and took self-directed initiative in >10 projects.
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: DripCurl
+        link: "https://github.com/jalium/dripcurl"
+        tagline: "DripCurl is a React web app that connects users that have the same hair type. \
+        Each user has a profile allowing them to share their favourite products and are able to \
+        browse profiles to help customize their own hair care routine.
+        \n
+        Technologies used: React.js / CSS / Redux / Node.js / MongoDB / Express / Multer."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Journey
+        link: "https://github.com/jalium/journey/tree/master/alibay-boiler"
+        tagline: "Journey is a React web app that functions as a marketplace for vacation packages. \
+        The user is able to search for their desired destination and purchase the vacation using a \
+        Stripe API.
+        \n
+        Technologies used: React.js / CSS /  Redux /  Node.js /  MongoDB /  Express / Multer."
 
 oss:
     title: OSS Contributions
@@ -219,46 +155,28 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: Electricity generation using a novel biological co-catalyst in an air-cathode microbial fuel cell
+        authors: Johnson, J., Izcoatl, G., Kirkwood, K.
+        conference: International Biotechnology Symposium
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: ReactJS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: TypeScript
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Git / Github
+        level: 90%
+        
+      - name: Jira
+        level: 100% 
+
+      - name: Python
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
