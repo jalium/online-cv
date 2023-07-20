@@ -3,141 +3,140 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jessica Johnson
-    tagline: Full-stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Jessica Johnson
+  tagline: Full-stack Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: jessica.virginia.johnson@gmail.com
-    phone: (438) 505-9797
-    website: jalium.github.io/online-cv/ #do not add http://
-    linkedin: jessica-v-johnson
-    github: jalium
+  # Sidebar links
+  email: jessica.virginia.johnson@gmail.com
+  phone: (438) 505-9797
+  website: jalium.github.io/online-cv/ #do not add http://
+  linkedin: jessica-v-johnson
+  github: jalium
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Native
 
-        - idiom: French
-          level: Professional
+      - idiom: French
+        level: Professional
 
-    interests:
-      - item: Fashion
-        link:
+  interests:
+    - item: Fashion
+      link:
 
-      - item: Science
-        link:
-
+    - item: Science
+      link:
         - item: Cooking
           link:
 
-      - item: Dance
-        link:
+    - item: Dance
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Renewable energy engineer turned full-stack developer.
+  title: Career Profile
+  summary: |
+    Renewable energy engineer turned full-stack developer.
 
 education:
-    - degree: Diploma in Full Stack Development
-      university: Concordia University
-      time: 2019 - 2019
-      details: |
-        Completed a Full-Stack Web Development Diploma that focuses on modern
-        Web Development with JavaScript.
+  - degree: Diploma in Full Stack Development
+    university: Concordia University
+    time: 2019 - 2019
+    details: |
+      Completed a Full-Stack Web Development Diploma that focuses on modern
+      Web Development with JavaScript.
 
-        Technologies covered included: HTML,
-        CSS, JavaScript, React, Redux, Git, GitHub, Node.js, Express, MongoDB
+      Technologies covered included: HTML,
+      CSS, JavaScript, React, Redux, Git, GitHub, Node.js, Express, MongoDB
 
-    - degree: MSc in Biochemical Engineering
-      university: University of Ottawa
-      time: 2015 - 2018
-      details: |
-        Developed a novel coculture and demonstrated its proficiency as a biocatalyst
-        Learned and employed R for data analysis and visualization
+  - degree: MSc in Biochemical Engineering
+    university: University of Ottawa
+    time: 2015 - 2018
+    details: |
+      Developed a novel coculture and demonstrated its proficiency as a biocatalyst
+      Learned and employed R for data analysis and visualization
 
-    - degree: BSc in Chemical Engineering
-      university: Queen’s University
-      time: 2010 - 2014
-      details: |
-        Environmental Stream – Honours
+  - degree: BSc in Chemical Engineering
+    university: Queen’s University
+    time: 2010 - 2014
+    details: |
+      Environmental Stream – Honours
 
 experiences:
-    - role: Front-end Developer
-      time: August 2020 – February 2023
-      company: Mentorly
-      details: |+
-        Architected and developed new features for Enterprise product using TypeScript and React.
-        Implemented automated end-to-end tests using Cypress
-        Managed prioritisation of features for the product roadmap based on user feedback
-        Typescript / React / Next / Tailwind CSS / Jira / Productboard 
+  - role: Front-end Developer
+    time: August 2020 – February 2023
+    company: Mentorly
+    details: |+
+      Architected and developed new features for Enterprise product using TypeScript and React.
+      Implemented automated end-to-end tests using Cypress
+      Managed prioritisation of features for the product roadmap based on user feedback
+      Typescript / React / Next / Tailwind CSS / Jira / Productboard 
 
-    - role: Fullstack Developer
-      time: October 2019 – August 2020
-      company: Folklore / Urbania
-      details: |+
-        Built an interactive video platform that delivered a unique UX based on multiple user inputs.
-        Contributed to continuous improvement on main site and integrated front-end code from Adobe models.
-        Collaborated with a UX designer to improve the internal CMS.
-        Researched an AI empowered recommendation API using Tensorflow and Google Analytics.
-        Javascript ES6 / NodeJS / Git / Asana / Php / React / Tensorflow
+  - role: Fullstack Developer
+    time: October 2019 – August 2020
+    company: Folklore / Urbania
+    details: |+
+      Built an interactive video platform that delivered a unique UX based on multiple user inputs.
+      Contributed to continuous improvement on main site and integrated front-end code from Adobe models.
+      Collaborated with a UX designer to improve the internal CMS.
+      Researched an AI empowered recommendation API using Tensorflow and Google Analytics.
+      Javascript ES6 / NodeJS / Git / Asana / Php / React / Tensorflow
 
-    - role: Analysis Intern
-      time: January 2019 – April 2019
-      company: Ambri Inc.
-      details: |
-        Designed a web application in Python that enabled the user to compare performance
-        data of a selection of battery cells.
-        Performed analyses to identify the cause of performance variability in a novel
-        battery cell chemistry from SEM and EDX results.
+  - role: Analysis Intern
+    time: January 2019 – April 2019
+    company: Ambri Inc.
+    details: |
+      Designed a web application in Python that enabled the user to compare performance
+      data of a selection of battery cells.
+      Performed analyses to identify the cause of performance variability in a novel
+      battery cell chemistry from SEM and EDX results.
 
-    - role: Lead Instructor
-      time: September 2016 – May 2018
-      company: U. Ottawa, Chemical Engineering Laboratory
-      details: |
-        Lead instructor for pilot-scale distillation column, kidney dialysis and air flow
-        laboratories, training 100 students on lab equipment, safety, and reporting processes.
+  - role: Lead Instructor
+    time: September 2016 – May 2018
+    company: U. Ottawa, Chemical Engineering Laboratory
+    details: |
+      Lead instructor for pilot-scale distillation column, kidney dialysis and air flow
+      laboratories, training 100 students on lab equipment, safety, and reporting processes.
 
-    - role: Chemical Engineer
-      time: May 2013 – August 2013
-      company: PnuVax SL Biopharmaceuticals Inc
-      details: |
-           Embraced the start-up environment and took self-directed initiative in >10 projects.
+  - role: Chemical Engineer
+    time: May 2013 – August 2013
+    company: PnuVax SL Biopharmaceuticals Inc
+    details: |
+      Embraced the start-up environment and took self-directed initiative in >10 projects.
 
 publications:
-    title: Publications
-    intro: |
+  title: Publications
+  intro: |
 
-    papers:
-      - title: Electricity generation using a novel biological co-catalyst in an air-cathode microbial fuel cell
-        authors: Johnson, J., Izcoatl, G., Kirkwood, K.
-        conference: International Biotechnology Symposium
-        
+  papers:
+    - title: Electricity generation using a novel biological co-catalyst in an air-cathode microbial fuel cell
+      authors: Johnson, J., Izcoatl, G., Kirkwood, K.
+      conference: International Biotechnology Symposium
+
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: ReactJS
-        level: 95%
+  toolset:
+    - name: ReactJS
+      level: 95%
 
-      - name: TypeScript
-        level: 90%
+    - name: TypeScript
+      level: 90%
 
-      - name: Git / Github
-        level: 90%
-        
-      - name: Jira
-        level: 100% 
+    - name: Git / Github
+      level: 90%
 
-      - name: Python
-        level: 60%
+    - name: Jira
+      level: 100%
+
+    - name: Python
+      level: 60%
 
 footer: >
