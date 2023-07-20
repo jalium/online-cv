@@ -68,8 +68,17 @@ education:
         Environmental Stream – Honours
 
 experiences:
+- role: Front-end Developer
+      time: August 2020 – February 2023
+      company: Mentorly
+      details: |+
+        Architected and developed new features for Enterprise product using TypeScript and React.
+        Implemented automated end-to-end tests using Cypress
+        Managed prioritisation of features for the product roadmap based on user feedback
+        Typescript / React / Next / Tailwind CSS / Jira / Productboard 
+
     - role: Fullstack Developer
-      time: October 2019 – Present
+      time: October 2019 – August 2020
       company: Folklore / Urbania
       details: |+
         Built an interactive video platform that delivered a unique UX based on multiple user inputs.
