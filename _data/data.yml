@@ -71,7 +71,7 @@ education:
         Environmental Stream – Honours
 
 experiences:
-- role: Front-end Developer
+    - role: Front-end Developer
       time: August 2020 – February 2023
       company: Mentorly
       details: |+
@@ -112,46 +112,6 @@ experiences:
       details: |
            Embraced the start-up environment and took self-directed initiative in >10 projects.
 
-projects:
-    title: Projects
-    intro: >
-
-    assignments:
-      - title: DripCurl
-        link: "https://github.com/jalium/dripcurl"
-        tagline: "DripCurl is a React web app that connects users that have the same hair type. \
-        Each user has a profile allowing them to share their favourite products and are able to \
-        browse profiles to help customize their own hair care routine.
-        \n
-        Technologies used: React.js / CSS / Redux / Node.js / MongoDB / Express / Multer."
-
-      - title: Journey
-        link: "https://github.com/jalium/journey/tree/master/alibay-boiler"
-        tagline: "Journey is a React web app that functions as a marketplace for vacation packages. \
-        The user is able to search for their desired destination and purchase the vacation using a \
-        Stripe API.
-        \n
-        Technologies used: React.js / CSS /  Redux /  Node.js /  MongoDB /  Express / Multer."
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -160,6 +120,7 @@ publications:
       - title: Electricity generation using a novel biological co-catalyst in an air-cathode microbial fuel cell
         authors: Johnson, J., Izcoatl, G., Kirkwood, K.
         conference: International Biotechnology Symposium
+        
 skills:
     title: Skills &amp; Proficiency
 
