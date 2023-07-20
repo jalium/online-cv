@@ -25,7 +25,7 @@ a {
 }
 
 p {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
 .wide-space {
@@ -77,29 +77,27 @@ p {
         margin-bottom: 15px;
     }
 
-    .avatar {
-        //used for profile image
-        max-width: 100px;
-        margin-bottom: 15px;
-        border: 0px solid #fff;
-        border-radius: 100%;
-        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  .avatar {
+    //used for profile image
+    max-width: 100px;
+    margin-bottom: 15px;
+    border: 0px solid #fff;
+    border-radius: 100%;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  }
+  .contact-list {
+    .fas,
+    .fab,
+    .far {
+      margin-right: 5px;
+      font-size: 18px;
+      vertical-align: middle;
     }
-    .contact-list {
-        .fas, .fab {
-            margin-right: 5px;
-            font-size: 18px;
-            vertical-align: middle;
-        }
-        li {
-            margin-bottom: 15px;
-            &:last-child {
-                margin-bottom: 0;
-            }
-        }
-    }
-    .container-block {
-        padding: 30px;
+    li {
+      margin-bottom: 15px;
+      &:last-child {
+        margin-bottom: 0;
+      }
     }
     .container-block-title {
         text-transform: uppercase;
@@ -109,55 +107,43 @@ p {
         margin-top: 0;
         margin-bottom: 15px;
     }
-    .degree {
-        font-size: 14px;
-        margin-top: 0;
-        margin-bottom: 5px;
+    .meta {
+      color: rgba(256, 256, 256, 0.6);
+      font-weight: 500;
+      margin-bottom: 0px;
+      margin-top: 0;
     }
-    .education-container {
-        .item {
-            margin-bottom: 15px;
-            &:last-child {
-                margin-bottom: 0;
-            }
-        }
-        .meta {
-            color: rgba(256, 256, 256, 0.6);
-            font-weight: 500;
-            margin-bottom: 0px;
-            margin-top: 0;
-        }
-        .time {
-            color: rgba(256, 256, 256, 0.6);
-            font-weight: 500;
-            margin-bottom: 0px;
-        }
+    .time {
+      color: rgba(256, 256, 256, 0.6);
+      font-weight: 500;
+      margin-bottom: 0px;
     }
-    .languages-container {
-        .lang-desc {
-            color: rgba(256, 256, 256, 0.6);
-        }
+  }
+  .languages-container {
+    .lang-desc {
+      color: rgba(256, 256, 256, 0.6);
     }
+  }
 
-    .languages-list {
+  .languages-list {
+    margin-bottom: 0;
+    li {
+      margin-bottom: 10px;
+      &:last-child {
         margin-bottom: 0;
-        li {
-            margin-bottom: 10px;
-            &:last-child {
-                margin-bottom: 0;
-            }
-        }
+      }
     }
+  }
 
-    .interests-list {
+  .interests-list {
+    margin-bottom: 0;
+    li {
+      margin-bottom: 10px;
+      &:last-child {
         margin-bottom: 0;
-        li {
-            margin-bottom: 10px;
-            &:last-child {
-                margin-bottom: 0;
-            }
-        }
+      }
     }
+  }
 }
 
 .main-wrapper {
@@ -204,6 +190,38 @@ p {
         margin-bottom: 10px;
         color: #999;
     }
+  }
+  .upper-row,
+  .second-upper-row {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2px;
+    display: flex;
+  }
+  .job-title,
+  .degree,
+  .cert-title{
+    color: $text-color;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+    flex: 75%;
+  }
+  .time,
+  .cert-url {
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: $text-grey;
+    flex: 25%;
+  }
+  .company,
+  .university,
+  .cert-org {
+    margin-bottom: 10px;
+    color: $text-grey;
+  }
 
     .project-title {
         font-size: 14px;
@@ -213,14 +231,10 @@ p {
         margin-bottom: 5px;
 	color: black;
     }
-    .projects-section {
-        .intro {
-            margin-bottom: 30px;
-        }
-        .item {
-            margin-bottom: 15px;
-        }
+    .item {
+      margin-bottom: 15px;
     }
+  }
 
     .publication-title {
         font-size: 16px;
@@ -233,16 +247,11 @@ p {
         color: #999;
         margin-bottom: 1px;
     }
-    .publications-section {
-        .intro {
-            margin-bottom: 30px;
-        }
-        .item {
-            margin-bottom: 15px;
-        }
+    .item {
+      margin-bottom: 15px;
     }
+  }
 }
-
 
 .skillset {
     .item {
@@ -265,15 +274,15 @@ p {
 }
 
 .footer {
-    padding-top: 30px;
-    .copyright {
-        line-height: 1.6;
-        color: $text-color-secondary;
-        font-size: 13px;
-    }
+  padding-top: 30px;
+  .copyright {
+    line-height: 1.6;
+    color: $text-color-secondary;
+    font-size: 13px;
+  }
 
-    .fa-heart {
-        color: $heart;
-    }
-
+  .fa-heart {
+    color: $heart;
+  }
 }
+

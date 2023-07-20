@@ -3,6 +3,7 @@
 #
 
 sidebar:
+    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -19,11 +20,13 @@ sidebar:
     github: jalium
 
     languages:
-      - idiom: English
-        level: Native
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
 
-      - idiom: French
-        level: Professional
+        - idiom: French
+          level: Professional
 
     interests:
       - item: Fashion
@@ -32,8 +35,8 @@ sidebar:
       - item: Science
         link:
 
-      - item: Cooking
-        link:
+        - item: Cooking
+          link:
 
       - item: Dance
         link:
@@ -130,6 +133,25 @@ projects:
         \n
         Technologies used: React.js / CSS /  Redux /  Node.js /  MongoDB /  Express / Multer."
 
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 publications:
     title: Publications
     intro: |
@@ -138,33 +160,23 @@ publications:
       - title: Electricity generation using a novel biological co-catalyst in an air-cathode microbial fuel cell
         authors: Johnson, J., Izcoatl, G., Kirkwood, K.
         conference: International Biotechnology Symposium
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: ReactJS
-        level: 90%
+        level: 95%
 
-      - name: JavaScript ES6
+      - name: TypeScript
         level: 90%
 
       - name: Git / Github
-        level: 85%
-
-      - name: NodeJS
-        level: 80%
-
-      - name: Redux
-        level: 80%
-
-      - name: Express
-        level: 75%
-
-      - name: MongoDB
-        level: 70%
+        level: 90%
+        
+      - name: Jira
+        level: 100% 
 
       - name: Python
-        level: 70%
+        level: 60%
 
 footer: >
